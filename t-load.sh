@@ -79,7 +79,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "             "TERMUX'TAN ÇIKIN VE 5 SANİYE SONRA YENİDEN AÇIN |lolcat 
+echo "             "TERMUX TAN ÇIKIN VE 5 SANİYE SONRA YENİDEN AÇIN |lolcat 
 echo " "
 echo " "
 sleep 3.0
