@@ -1,6 +1,6 @@
 #!Script  author N117R0
-#By noob hackers
-#Be a creative person not copy paster
+#By Meyit47 
+#Yaratıcı olun kopyala yapıştır yapmayın
 
 ###################################
 cyan='\e[0;36m'
@@ -20,16 +20,16 @@ echo " "
 echo " "
 echo -e "\e[1m\e[31m\
            
-           ████████╗   ██╗      ██████╗  █████╗ ██████╗
-           ╚══██╔══╝   ██║     ██╔═══██╗██╔══██╗██╔══██╗
-              ██║█████╗██║     ██║   ██║███████║██║  ██║
-              ██║╚════╝██║     ██║   ██║██╔══██║██║  ██║
-              ██║      ███████╗╚██████╔╝██║  ██║██████╔╝
-              ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1"
+                        ██╗      ██████╗  █████╗  █████╗
+                        ██║     ██╔═══██╗██╔══██╗██╔═██╗
+                        ██║     ██║   ██║███████║██║  ██║
+                        ██║     ██║   ██║██╔══██║██║  ██║
+                       ███████╗╚██████╔╝██║  ██║██████╔╝
+                        ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1"
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Kodlayan \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31mYOUTUBE- Noob Hackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31mTELEGRAM- MEYİTZADE\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
@@ -79,7 +79,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "             "EXIT FROM TERMUX AND RE OPEN IT AFTER 5 SECONDS |lolcat 
+echo "             "TERMUX'TAN ÇIKIN VE 5 SANİYE SONRA YENİDEN AÇIN |lolcat 
 echo " "
 echo " "
 sleep 3.0
